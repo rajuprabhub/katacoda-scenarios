@@ -18,7 +18,7 @@
     }
   },
   "assets": {
-    "client": [{
+    "master": [{
       "file": "startup.sh",
       "target": "/usr/local/bin"
     }]
