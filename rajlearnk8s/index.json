@@ -46,6 +46,12 @@
         "text": "step10.md"
       }
     ],
+    "assets": {
+    "host01": [
+        {"file": "startUp.sh", "target": "/usr/local/bin/", "chmod": "+x"},
+        {"file": "background.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+    ]
+},
     "intro": {
       "text": "intro.md"
     },
@@ -57,6 +63,6 @@
     "uilayout": "terminal-iframe"
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "kubernetes-cluster"
   }
 }
