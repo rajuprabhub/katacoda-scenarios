@@ -53,7 +53,7 @@
       "text": "finish.md"
     },
     "assets": {
-      "host01": [{
+      "client": [{
           "file": "startUp.sh",
           "target": "/usr/local/bin/",
           "chmod": "+x"
