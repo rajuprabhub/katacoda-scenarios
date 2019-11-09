@@ -1,4 +1,4 @@
 #!/bin/bash
 
 touch /root/createdFromBackgroundScript
-./startUp.sh
+startUp.sh
