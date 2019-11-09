@@ -52,16 +52,10 @@
     "finish": {
       "text": "finish.md"
     },
-    "assets": {
-      "client": [{
+    "assets": {[
           "file": "startUp.sh",
           "target": "/usr/local/bin/"
-        },
-        {
-          "file": "background.sh",
-          "target": "/usr/local/bin/"
-        }
-      ]
+     ]
     }
   },
   "environment": {
