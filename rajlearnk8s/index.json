@@ -54,16 +54,23 @@
     }
   },
   "assets": {
-    "host01": [
-        {"file": "startUp.sh", "target": "/usr/local/bin/", "chmod": "+x"},
-        {"file": "background.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+    "host01": [{
+        "file": "startUp.sh",
+        "target": "/usr/local/bin/",
+        "chmod": "+x"
+      },
+      {
+        "file": "background.sh",
+        "target": "/usr/local/bin/",
+        "chmod": "+x"
+      }
     ]
-}
-},
-  "environment": {
-    "uilayout": "terminal-iframe"
-  },
-  "backend": {
-    "imageid": "kubernetes"
   }
+},
+"environment": {
+  "uilayout": "terminal-iframe"
+},
+"backend": {
+  "imageid": "kubernetes"
+}
 }
