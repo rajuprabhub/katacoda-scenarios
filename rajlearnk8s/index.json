@@ -47,12 +47,6 @@
       }
     ],
     "assets": {
-    "client": [
-      {
-        "file": "startUp.sh",
-        "target": "/root"
-      }
-    ],
     "host01": [
       {
         "file": "startUp.sh",
