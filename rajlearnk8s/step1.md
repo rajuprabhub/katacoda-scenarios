@@ -1,3 +1,1 @@
-<pre>
-[[kubectl]]
-</pre>
+`kubectl get pods`{{execute}}
