@@ -19,7 +19,7 @@
   },
   "assets": {
     "master": [{
-      "file": "startup.sh",
+      "file": "background.sh",
       "target": "/usr/local/bin"
     }]
   },
