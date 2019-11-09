@@ -53,15 +53,13 @@
       "text": "finish.md"
     },
     "assets": {
-      "client": [{
+      "host01": [{
           "file": "startUp.sh",
-          "target": "/usr/local/bin/",
-          "chmod": "+x"
+          "target": "/usr/local/bin/"
         },
         {
           "file": "background.sh",
-          "target": "/usr/local/bin/",
-          "chmod": "+x"
+          "target": "/usr/local/bin/"
         }
       ]
     }
