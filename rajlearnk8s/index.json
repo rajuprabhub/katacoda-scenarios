@@ -54,7 +54,7 @@
     }
   },
   "assets": {
-    "host01": [{
+    "master": [{
         "file": "startUp.sh",
         "target": "/usr/local/bin/",
         "chmod": "+x"
