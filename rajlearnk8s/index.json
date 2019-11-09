@@ -4,8 +4,12 @@
   "difficulty": "Intermediate",
   "time": "1 hours",
   "details": {
-    "steps": [
-      {
+    "assets": {
+      "host01": [
+        {"file": "startUp.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+      ]
+    },
+    "steps": [{
         "title": "Step 1",
         "courseData": "background.sh",
         "text": "step1.md"
