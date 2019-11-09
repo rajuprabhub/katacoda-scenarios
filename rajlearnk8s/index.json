@@ -54,7 +54,7 @@
     }
   },
   "assets": {
-    "master": [{
+    "client": [{
         "file": "startUp.sh",
         "target": "/usr/local/bin/",
         "chmod": "+x"
