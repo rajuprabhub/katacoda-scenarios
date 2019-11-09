@@ -5,7 +5,7 @@
   "time": "1 hours",
   "details": {
     "steps": [{
-        "title": "Step 1",
+        "title": "Step Start",
         "courseData": "background.sh",
         "text": "step1.md"
       },
@@ -52,12 +52,6 @@
     "finish": {
       "text": "finish.md"
     },
-    "assets": {[
-          "file": "startUp.sh",
-          "target": "/usr/local/bin/"
-     ]
-    }
-  },
   "environment": {
     "uilayout": "terminal-iframe"
   },
