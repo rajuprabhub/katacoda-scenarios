@@ -47,11 +47,20 @@
       }
     ],
     "assets": {
+    "client": [
+      {
+        "file": "startUp.sh",
+        "target": "/root"
+      }
+    ],
     "host01": [
-        {"file": "startUp.sh", "target": "/usr/local/bin/", "chmod": "+x"},
-        {"file": "background.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+      {
+        "file": "startUp.sh",
+        "target": "/root"
+      }
     ]
-},
+  },
+
     "intro": {
       "text": "intro.md"
     },
