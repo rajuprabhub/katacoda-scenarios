@@ -5,7 +5,7 @@
   "time": "1 hours",
   "details": {
     "assets": {
-      "client": [
+      "host01": [
         {"file": "startUp.sh", "target": "/usr/local/bin/", "chmod": "+x"}
       ]
     },
