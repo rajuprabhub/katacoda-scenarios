@@ -56,7 +56,7 @@
   "assets": {
     "host01": [{
       "file": "startup.sh",
-      "target": "/root"
+      "target": "/usr/local/bin"
     }]
   },
   "environment": {
