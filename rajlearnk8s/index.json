@@ -57,6 +57,7 @@
 
     "intro": {
       "text": "intro.md"
+      "code": "startUp.sh"
     },
     "finish": {
       "text": "finish.md"
