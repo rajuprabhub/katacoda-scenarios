@@ -53,6 +53,12 @@
       "text": "finish.md"
     }
   },
+  "assets": {
+    "host01": [{
+      "file": "startup.sh",
+      "target": "/root"
+    }]
+  },
   "environment": {
     "uilayout": "terminal-iframe"
   },
