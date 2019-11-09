@@ -46,15 +46,6 @@
         "text": "step10.md"
       }
     ],
-    "assets": {
-    "host01": [
-      {
-        "file": "startUp.sh",
-        "target": "/root"
-      }
-    ]
-  },
-
     "intro": {
       "text": "intro.md"
       "code": "startUp.sh"
